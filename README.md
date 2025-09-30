@@ -1,5 +1,5 @@
-## Hi 👋
-## I'm JUHEE 😀
+## Hi 👋 I'm JUHEE 😀
+WELCOME TO MY STORAGE
 <!--
 **eeehuuuj/eeehuuuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
